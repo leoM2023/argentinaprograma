@@ -1,4 +1,5 @@
 let minuendo = 10;
 let sustraendo = 2;
-let resta = minuendo - sustraendo;
-console.log (resta); 
+let resultadoresta = minuendo - sustraendo;
+console.log (resultadoresta); 
+// el valor de resultadoresta es = 8
